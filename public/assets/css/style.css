@@ -12,6 +12,7 @@ body{
 	color: #fff;
 	top: 0px;
 	position: fixed;
+	z-index: 2;
 }
 
 #right-nav{
